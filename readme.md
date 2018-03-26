@@ -1,6 +1,6 @@
 # INSTRUÇÕES
 
-Os dois programas executam as funções que foram solicitadas, porém, não é possível que seja feito com a quantidade de dados apresentada no arquivo de texto "source.txt". Dessa forma foi criado um arquivo de texto "sample_mod.txt" com cerca de 10 mil entradas, sendo essas as primeiras que ocorrem no arquivo "sample.txt".
+Os dois programas executam as funções que foram solicitadas, porém, não é possível que seja feito com a quantidade de dados apresentada no arquivo de texto "source.txt". Dessa forma foi criado um arquivo de texto "sample_mod.txt" com cerca de 12 mil entradas, sendo essas as primeiras que ocorrem no arquivo "sample.txt". Se ocorrer algum problema de erro de segmentação, a variável "arrSize" pode ser modificada em ambos os arquivos.
 
 O programa "armazenador.exe" pega as entradas do arquivo de texto, cujo nome deve ser entrado na linha de comando da seguinte forma:
 
